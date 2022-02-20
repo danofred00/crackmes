@@ -1,4 +1,5 @@
 /*
+    DIFFICULTY : 1.0
     hi crackers, there is mexican crackme by @Danofred0
     try harder to bypass this !!!
 
