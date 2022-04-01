@@ -1,3 +1,8 @@
+
+/*
+    Coded By @Danofred0
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
