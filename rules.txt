@@ -1,0 +1,12 @@
+******************************
+**   CRACKME by @Danofred   **
+**   https://crackmes.one   **
+******************************
+
+
+RULES
+------
+This crackme are PACKED, you will try to :
+
+1) Bypass disk Verification
+2) Patch this crackme
