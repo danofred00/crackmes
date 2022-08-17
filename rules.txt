@@ -6,7 +6,7 @@
 
 RULES
 ------
-This crackme are PACKED, you will try to :
+This crackme is PACKED, you will try to :
 
 1) Bypass disk Verification
 2) Patch this crackme
