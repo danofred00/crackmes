@@ -67,13 +67,15 @@ int keygen(const char *uname, const int length)
     eax = key*OP1;
 
     //  sub dword ptr ss:[rbp-0x24],0xBB8
-    key = eax - OP2;
+    eax = key = eax - OP2;
     
-    eax = key;
     tmp = eax >> OP3;
     eax += tmp;
     eax >>= OP4;
 
     key = eax - uname[0];
+    
+    // free the allocated space for uname_cpy
+    free(uname_cpy);
     return key;
 }
